@@ -1,2 +1,2 @@
-# my--frist-repository
+# my-frist-README
 repository for frist GitHub
